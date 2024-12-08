@@ -7,10 +7,14 @@ __pycache__/
 /data/original
 /data/
 
+/backups/
+
 /submissions/
 /submissions_threshold/
 
 /embeddings/
+
+/models/
 
 ## Jupyter
 /[Vv]env/
