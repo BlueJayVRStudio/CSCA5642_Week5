@@ -3,18 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Also ignore data; Will be using large dataset
+# Project Outputs
 /data/original
 /data/
+/embeddings/
+/models/
 
+# Course Related Contents and Miscellaneous
 /backups/
-
 /submissions/
 /submissions_threshold/
-
-/embeddings/
-
-/models/
 
 ## Jupyter
 /[Vv]env/
